@@ -6,6 +6,6 @@ I wrote this back in school to make it easier for me to do boring math homework 
 Project has terrible code, sorry:(
 
 To get it working you need to have python3 pip and install these modules:
-pip3 install pyfiglet
+pip3 install pyfiglet | 
 pip3 install termcolor
 
